@@ -1,0 +1,21 @@
+button {
+    background-color: #5eccd6;
+    border-radius: 20px;    
+    font-size: x-large;
+    color: rgb(227, 127, 127);
+    padding: 0 50px;
+}
+
+form {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 200px;
+    width: 300px;
+    font-size:xx-large;
+}
+
+mat-form-field {
+    width: 100%;
+}
